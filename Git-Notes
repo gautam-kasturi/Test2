@@ -1,0 +1,32 @@
+Git 
+
+Why Git?
+- Collaboration between multiple developers
+- Version Control
+- Safe keeping
+
+Different Solutions:
+- SVN
+- Clearcase
+- Git
+- Github
+- Bitbucket
+- Gitlabs
+
+Last 4 are cloud-based and use git in the background.
+
+Git operations
+
+Work with Repositories: 
+Initiatlize
+Add files 
+Commit
+Push
+Pull
+Branch
+Rebase
+Merge
+Pull-request
+
+Gitkraken
+UI tool to do all of this
